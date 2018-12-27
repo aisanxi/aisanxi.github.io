@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sanxi Ai"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A PhD candidate at UCAS"
+  location         : "Wuhan, China"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
