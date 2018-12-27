@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanxi Ai"
+title                    : "Sanxi Ai's homepage"
 title_separator          : "-"
 name                     : &name "Sanxi Ai"
 description              : &description "A PhD candidate at UCAS"
