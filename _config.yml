@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanxi Ai's homepage"
+title                    : "Sanxi Ai"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sanxi Ai"
+description              : &description "A PhD candidate at UCAS"
 url                      : https://aisanxi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aisanxi/aisanxi.github.io"
