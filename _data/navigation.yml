@@ -1,8 +1,8 @@
 # main links links
 main:
 
-- title: "Event/News"
-    url: /year-archive/
+#- title: "Event/News"
+#    url: /year-archive/
 
 - title: "Publications"
     url: /publications/
