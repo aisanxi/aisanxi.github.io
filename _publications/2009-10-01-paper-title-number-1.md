@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'for test.'
 date: 2019-01-09
-venue: 'JGR- Solid Earth'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Journal of Geophysical Research: Solid Earth'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JB016476'
+citation: 'Ai, S., Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and northern segments of the Fenhe‐Weihe Rift zone. Journal of Geophysical Research: Solid Earth, 124. https://doi.org/10.1029/2018JB016476'
 ---
 The Fenhe‐Weihe Rift (FWR) system is one of the most active rift zones in east China, and
 plays an important role in the reactivation of the North China Craton. In this work, a high‐resolution 3‐D
