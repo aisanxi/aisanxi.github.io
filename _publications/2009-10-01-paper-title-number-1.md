@@ -19,8 +19,6 @@ part of the FWR could be the remnants of strong ancient cratonic root, and act a
 block the rifting processes between the south and north FWR.'
 date: 2019-01-09
 venue: 'Journal of Geophysical Research: Solid Earth'
-paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JB016476'
-citation: 'Ai, S., Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and northern segments of the Fenhe‐Weihe Rift zone. Journal of Geophysical Research: Solid Earth, 124. https://doi.org/10.1029/2018JB016476'
 ---
 The Fenhe‐Weihe Rift (FWR) system is one of the most active rift zones in east China, and
 plays an important role in the reactivation of the North China Craton. In this work, a high‐resolution 3‐D
