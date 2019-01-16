@@ -24,7 +24,7 @@ Reaearch Interests
 Awards & Honors 
 ======
 * 2016  Merit Student, University of Chinese Academy of Sciences
-* 2016  Outstanding Student Paper Award, Annual meeting of Chinese geoscience union(CGU)
+* 2016  Outstanding Student Paper Award, Annual Meeting of Chinese Geoscience Union(CGU)
 * 2017  Merit Student, University of Chinese Academy of Sciences
 * 2018  Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
@@ -49,3 +49,4 @@ Skills
   - Adobe Illustrator,ArcGIS
 * Seismological Tools
   - SAC, GMT, SOD, ObsPy, CPS
+ In addtion, I'm opening to all computation and data processing science and skills, such as AI, deep learning
