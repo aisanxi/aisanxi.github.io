@@ -34,7 +34,7 @@ Peer-Reviewed Publications(# denotes corresponding author)
 >
 > \3. **Ai, S.**, Zheng, Y., & Xiong, C. (2019). Ambient noise tomography across the Taiwan Strait, Taiwan Island and southwestern Ryukyu Arc: Implications for subsurface slab interactions. **Tectonics**. (Accepted)
 >
-> \2. **Ai, S.**, Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and. northern segments of the Fenhe‐Weihe Rift zone. **Journal of Geophysical Research: Solid Earth**, 124. https://doi.org/10.1029/2018JB016476
+> \2. **Ai, S.**, Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and northern segments of the Fenhe‐Weihe Rift zone. **Journal of Geophysical Research: Solid Earth**, 124. https://doi.org/10.1029/2018JB016476
 >
 > \1. Xiong, C., Xie, Z., Zheng, Y., Xiong, X., **Ai, S.**, & Xie, R. (2019). Rayleigh wave tomography in the crust and upper mantle of the Dabie-Tablu Orogenic zone. **Seismology and Geology**. (Accepted, in Chinese)
 
@@ -48,7 +48,7 @@ Manuscripts in Preparation
 ===
 > **Ai, S.**, Zheng, Y. et al. (2019). Lithospheric radial anisotropy of the Trans-North China Orogen: Implications for the Cenozoic continental rifting .
 >
-> **Ai, S.**, Zheng, Y. et al. (2019). Joint inversion of Rayleigh wave ellipicity, phase velocoty anf receiver functions for high resolution crustal model of the SE Tibet.
+> **Ai, S.**, Zheng, Y. et al. (2019). Joint inversion of Rayleigh wave ellipicity, phase velocoty anf receiver functions for high-resolution crustal model of the SE Tibet.
 
   
 Skills
