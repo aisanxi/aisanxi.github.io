@@ -49,7 +49,8 @@ Manuscripts in Preparation
 > **Ai, S.**, Zheng, Y. et al. (2019). Lithospheric radial anisotropy of the Trans-North China Orogen: Implications for the Cenozoic continental rifting .
 >
 > **Ai, S.**, Zheng, Y. et al. (2019). Joint inversion of Rayleigh wave ellipicity, phase velocoty anf receiver functions for high-resolution crustal model of the SE Tibet.
-
+>
+> **Ai, S.** et al. Crustal ductile deformation of the Taiwan Strait.
   
 Skills
 =
