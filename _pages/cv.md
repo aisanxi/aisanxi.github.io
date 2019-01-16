@@ -28,7 +28,7 @@ Awards & Honors
 * 2017  Merit Student, University of Chinese Academy of Sciences
 * 2018  Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
-Publications
+Peer-reviewed Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
