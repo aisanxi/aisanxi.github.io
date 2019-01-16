@@ -26,7 +26,7 @@ Awards & Honors
 * 2016  Merit Student, University of Chinese Academy of Sciences
 * 2016  Outstanding Student Paper Award, Annual Meeting of Chinese Geoscience Union(CGU)
 * 2017  Merit Student, University of Chinese Academy of Sciences
-* 2018  Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
+* 2018  Winning Prize, The Third Session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
 Peer-Reviewed Publications(# denotes corresponding author)
 =
