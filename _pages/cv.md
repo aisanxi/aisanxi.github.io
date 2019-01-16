@@ -28,18 +28,15 @@ Awards & Honors
 * 2017  Merit Student, University of Chinese Academy of Sciences
 * 2018  Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
-Peer-reviewed Publications
+Peer-Reviewed Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+> 1. Ai, S., Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and northern segments of the Fenhe‐Weihe Rift zone. Journal of Geophysical Research: Solid Earth, 124. https://doi.org/10.1029/2018JB016476
+
+
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
   
 Skills
 ======
