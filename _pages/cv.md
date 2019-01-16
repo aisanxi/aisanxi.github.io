@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mapping and surveying engineering, Hohai University, 2014
-* M.S. in Geodesy, University of Chinese Academy of Sciences, 2016
-* Ph.D in Geophysics, University of Chinese Academy of Sciences, 2019 (expected)
+* 2010-2014, B.S. in Surveying and Mapping Science and Technology, Hohai University, Chna
+* 2014-2016, M.S. in Geodesy, University of Chinese Academy of Sciences, Chia
+* 2016-present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Reaearch Interests
+=====
+* Seismic imaging of the Earth's interior
+* Lithospheric deformation and dynamics
+* Space geodesy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Awards & Honors 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016 Merit Student, University of Chinese Academy of Sciences
+* 2016 Outstanding Student Paper Award, Annual meeting of Chinese geoscience union(CGU)
+* 2017 Merit Student, University of Chinese Academy of Sciences
+* 2018 Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
 Publications
 ======
@@ -48,12 +40,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Computer Skills
+  * Python, VB, C, Matlab
+  * Linux & Shelll
+  * Adobe Illustrator,ArcGIS
+* Seismological Tools
+  * SAC, GMT, SOD, ObsPy, CPS
