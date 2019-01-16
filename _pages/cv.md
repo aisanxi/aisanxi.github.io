@@ -46,7 +46,7 @@ Skills
 * Computer Skills
   - Python, VB, C, Matlab
   - Linux & Shelll
-  - Adobe Illustrator,ArcGIS
+  - Adobe Illustrator, ArcGIS
 * Seismological Tools
   - SAC, GMT, SOD, ObsPy, CPS
-  - In addtion, I'm opening to all computation and data processing science and skills, such as AI, deep learning
+  - In addtion, I'm opening to all computation and data processing science and skills, such as AI, deep learning.
