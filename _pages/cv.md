@@ -50,7 +50,9 @@ Papers in Review/Revision
 
 Manuscripts in Preparation
 =
-> **Ai, S.**, Zheng, Y. et al. (2019). Lithospheric radial anisotropy of the Trans-North China Orogen: Implications for the Cenozoic continental rifting .
+> **Ai, S.**, Zheng, Y. et al. (2019). Lithospheric radial anisotropy of the Trans-North China Orogen: Implications for the Cenozoic continental rifting.
+>
+> Zheng, Y., **Ai, S.#** et al. (2019). Crust and uppermost mantle structure beneath the north and south China collision zone from joint inversion of receiver functions and ambient noise tomography. 
 >
 > **Ai, S.**, Zheng, Y. et al. (2019). Joint inversion of Rayleigh wave ellipicity, phase velocoty anf receiver functions for high-resolution crustal model of the SE Tibet.
 >
