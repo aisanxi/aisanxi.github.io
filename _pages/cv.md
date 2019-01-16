@@ -40,7 +40,7 @@ Peer-Reviewed Publications(# denotes corresponding author)
 
 Papers in Review/Revision
 ===
-> **Ai, S.**, Zheng, Y., He, L., Wang, S., & Riaz, M. S. (2019). Investigating the mountain building process in Taiwan by joint inversion of Rayleigh wave ellipticity and phase velocity. in revision at Journal of Geophysical Research: Solid EarthJournal of Geophysical Research: Solid Earth.
+> **Ai, S.**, Zheng, Y., He, L., Wang, S., & Riaz, M. S. (2019). Investigating the mountain building process in Taiwan by joint inversion of Rayleigh wave ellipticity and phase velocity. in revision at Journal of Geophysical Research: Solid Earth.
 >
 > **Ai, S.**, Zhengy, Y., He, L., & Song, M. (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: on-going lithospheric modification and its impact on the Cenozoic continental rifting. submitted to Tectonophysics.
 
