@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+###### ***updated at 16 January 2019***
+
 Education
 =
 * 2010-2014, B.S. in Surveying and Mapping Science and Technology, Hohai University, Chna
