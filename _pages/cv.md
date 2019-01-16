@@ -28,9 +28,9 @@ Awards & Honors
 * 2017  Merit Student, University of Chinese Academy of Sciences
 * 2018  Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
-Peer-Reviewed Publications((* denotes corresponding author)
+Peer-Reviewed Publications(* denotes corresponding author)
 ======
-> 3. Xiong, C., Ai*, S., Xie, Z. & Xiong, X. (2019). Phase velocity maps of the Taiwan Island from tomography of cross terms of ambient noise cross-correlation tensors. Acta Seismologica Sinica (Accepted, in Chinese)
+> 3. Xiong, C., Ai *, S., Xie, Z. & Xiong, X. (2019). Phase velocity maps of the Taiwan Island from tomography of cross terms of ambient noise cross-correlation tensors. Acta Seismologica Sinica (Accepted, in Chinese)
 > 2. Ai, S., Zheng, Y., & Xiong, C. (2019). Ambient noise tomography across the Taiwan Strait, Taiwan Island and southwestern Ryukyu Arc: Implications for subsurface slab interactions. Tectonics (Accepted)
 > 1. Ai, S., Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and northern segments of the Fenhe‐Weihe Rift zone. Journal of Geophysical Research: Solid Earth, 124. https://doi.org/10.1029/2018JB016476
 
