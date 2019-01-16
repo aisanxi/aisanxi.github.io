@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2010-2014, B.S. in Surveying and Mapping Science and Technology, Hohai University, Chna
-* 2014-2016, M.S. in Geodesy, University of Chinese Academy of Sciences, Chia
+* 2014-2016, M.S. in Geodesy, University of Chinese Academy of Sciences, China
 * 2016-present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 
 Reaearch Interests
@@ -23,10 +23,10 @@ Reaearch Interests
 
 Awards & Honors 
 ======
-* 2016 Merit Student, University of Chinese Academy of Sciences
-* 2016 Outstanding Student Paper Award, Annual meeting of Chinese geoscience union(CGU)
-* 2017 Merit Student, University of Chinese Academy of Sciences
-* 2018 Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
+* 2016  Merit Student, University of Chinese Academy of Sciences
+* 2016  Outstanding Student Paper Award, Annual meeting of Chinese geoscience union(CGU)
+* 2017  Merit Student, University of Chinese Academy of Sciences
+* 2018  Winning Prize, The Third session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
 
 Publications
 ======
@@ -44,8 +44,8 @@ Talks
 Skills
 ======
 * Computer Skills
-  * Python, VB, C, Matlab
-  * Linux & Shelll
-  * Adobe Illustrator,ArcGIS
+  - Python, VB, C, Matlab
+  - Linux & Shelll
+  - Adobe Illustrator,ArcGIS
 * Seismological Tools
-  * SAC, GMT, SOD, ObsPy, CPS
+  - SAC, GMT, SOD, ObsPy, CPS
