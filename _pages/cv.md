@@ -19,7 +19,7 @@ Education
 * 2014-2016, M.S. in Geodesy, University of Chinese Academy of Sciences, China
 * 2016-present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 
-Reaearch Interests
+Research Interests
 =
 * Seismic imaging of the Earth's interior
 * Lithospheric deformation and dynamics
