@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /year-archive/
+    url: /news/
 
   - title: "Research"
     url: /research/
@@ -25,4 +25,4 @@ main:
 #    url: /markdown/
 
   - title: "Softwares"
-    url: /teaching/
+    url: /softwares/
