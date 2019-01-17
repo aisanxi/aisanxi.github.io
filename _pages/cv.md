@@ -45,13 +45,13 @@ Peer-Reviewed Publications(# denotes corresponding author)
 
 Papers in Review/Revision
 =
-> **Ai, S.**, Zheng, Y., He, L., Wang, S., & Riaz, M. S. (2019). Investigating the mountain building process in Taiwan by joint inversion of Rayleigh wave ellipticity and phase velocity. in revision at Journal of Geophysical Research: Solid Earth.
+> **Ai, S.**, Zheng, Y., He, L., Wang, S., & Riaz, M. S. (2019). Investigating the mountain building process in Taiwan by joint inversion of Rayleigh wave ellipticity and phase velocity. In revision at Journal of Geophysical Research: Solid Earth.
 >
-> **Ai, S.**, Zhengy, Y., He, L., & Song, M. (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: on-going lithospheric modification and its impact on the Cenozoic continental rifting. submitted to Tectonophysics.
+> **Ai, S.**, Zhengy, Y., He, L., & Song, M. (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: on-going lithospheric modification and its impact on the Cenozoic continental rifting. Submitted to Tectonophysics.
 
 Manuscripts in Preparation
 =
-> **Ai, S.**, Zheng, Y. et al. (2019). Lithospheric radial anisotropy of the Trans-North China Orogen: Implications for the Cenozoic continental rifting.
+> **Ai, S.**, Zheng, Y. et al. (2019). Limited extension of the Central NCC constrained by radial anisotropy.
 >
 > Zheng, Y., **Ai, S.#** et al. (2019). Crust and uppermost mantle structure beneath the north and south China collision zone from joint inversion of receiver functions and ambient noise tomography. 
 >
