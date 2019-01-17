@@ -1,13 +1,15 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /contact/
+permalink: /contactmd/
 author_profile: true
 redirect_from:
-  - /contact
+  - /contactmd
 ---
 
 {% include base_path %}
+
+
 
 Sanxi Ai
 * E-mail: aisanxi14 [at] mails.ucas.ac.cn
