@@ -23,7 +23,7 @@ Research Interests
 =
 * Seismic imaging of the Earth's interior
 * Lithospheric deformation and dynamics
-* Space geodesy
+* Geophysical joint inversion
 * Nunchaku martial arts
 
 Awards & Honors 
