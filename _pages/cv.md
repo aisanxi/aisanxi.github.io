@@ -15,7 +15,7 @@ updated at **16 January 2019**
 
 Education
 =
-* 2010-2014, B.S. in Surveying and Mapping Science and Technology, Hohai University, Chna
+* 2010-2014, B.S. in Geomatics Engineering, Hohai University, Chna
 * 2014-2016, M.S. in Geodesy, University of Chinese Academy of Sciences, China
 * 2016-present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 
