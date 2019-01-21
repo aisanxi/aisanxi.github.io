@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 ---
-# Great! Eventually my homepage run successfully at GitHub. -- December 31, 2018.
+# Great! Eventually my homepage run successfully at GitHub. -- December 27, 2018.
 ---
