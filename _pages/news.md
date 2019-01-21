@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Great! Eventually my homepage run successfully at GitHub. I'll add my information the latest news here. --December 31, 2018.
+# I'll add the latest news here. --December 31, 2018.
 
 >### 国家自然科学基金重大研究计划“西太平洋地球系统多圈层相互作用”2018年度资助项目启动会暨学术交流会
 >###### January 12, 2019 
