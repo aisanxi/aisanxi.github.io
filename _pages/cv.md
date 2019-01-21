@@ -69,3 +69,5 @@ Skills
 * Seismological Tools
   - SAC, GMT, SOD, ObsPy, CPS
   - In addition, I'm opening to all computation and data processing science and skills, such as AI, deep learning, etc.
+  
+[A PDF version is accessible here](http://aisanxi.github.io/files/Sanxi.Ai-CV.pdf)
