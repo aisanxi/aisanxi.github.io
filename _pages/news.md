@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# I'll add the latest news here.
+# Great! eventually my homepage run successfully at GitHub. I'll add my information the latest news here. --December 31, 2018.
