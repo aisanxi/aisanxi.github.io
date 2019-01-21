@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Sanxi's homepage."
+title: "Welcome to Sanxi's homepage. I'll add my information the latest news here"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I will add my information soon.
+
+# Great! Eventually my homepage run successfully at GitHub. --December 31, 2018.
+---
