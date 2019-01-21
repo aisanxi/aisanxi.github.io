@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /cv/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Photos"
+    url: /photomd/
 
   - title: "Softwares"
     url: /softwares/
