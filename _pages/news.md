@@ -10,3 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Great! Eventually my homepage run successfully at GitHub. I'll add my information the latest news here. --December 31, 2018.
+
+# 国家自然科学基金重大研究计划“西太平洋地球系统多圈层相互作用”2018年度资助项目启动会暨学术交流会
+>
+> ![西太计划介绍](https://upload-images.jianshu.io/upload_images/5650380-489fa9038ebb686e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![我也不知道我在看什么](https://upload-images.jianshu.io/upload_images/5650380-086f5bc55b18201e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
