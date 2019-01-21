@@ -62,8 +62,8 @@ Manuscripts in Preparation
 Skills
 =
 * Computer Skills
+  - Linux & Shell
   - Python, VB, C/C++, Matlab
-  - Linux & Shelll
   - Adobe Illustrator, ArcGIS
 * Seismological Tools
   - SAC, GMT, SOD, ObsPy, CPS
