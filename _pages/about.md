@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Sanxi's homepage. I'll add my information and the latest news here."
+title: "Welcome to Sanxi's homepage. I'll add my information and latest news here."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
