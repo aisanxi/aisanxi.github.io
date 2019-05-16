@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-updated at **16 January 2019**
-
+updated at **May 16 2019**
 
 
 Education
 =
 * 2010-2014, B.S. in Geomatics Engineering, Hohai University, Chna
-* 2014-2016, M.S. in Geodesy, University of Chinese Academy of Sciences, China
-* 2016-present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
+* 2014-present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 
 Research Interests
 =
@@ -33,41 +31,7 @@ Awards & Honors
 * 2016  Outstanding Student Paper Award, Annual Meeting of Chinese Geoscience Union(CGU)
 * 2017  Merit Student, University of Chinese Academy of Sciences
 * 2018  Winning Prize, The Third Session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
+* 2019  President Award, Chinese Academy of Sciences (Top 1%)
 
-Peer-Reviewed Publications(# denotes corresponding author)
-=
-> \4. Xiong, C., **Ai, S.#**, Xie, Z. & Xiong, X. (2019). Phase velocity maps of the Taiwan Island from tomography of cross terms of ambient noise cross-correlation tensors. **Acta Seismologica Sinica**. (Accepted, in Chinese)
->
-> \3. **Ai, S.**, Zheng, Y., & Xiong, C. (2019). Ambient noise tomography across the Taiwan Strait, Taiwan Island and southwestern Ryukyu Arc: Implications for subsurface slab interactions. **Tectonics**. https://doi.org/10.1029/2018TC005355
->
-> \2. **Ai, S.**, Zheng, Y., Riaz, M. S., Song, M., Zeng, S., & Xie, Z. (2019). Seismic evidence on different rifting mechanisms in southern and northern segments of the Fenhe‐Weihe Rift zone. **Journal of Geophysical Research: Solid Earth**, 124. https://doi.org/10.1029/2018JB016476 
->
-> \1. Xiong, C., Xie, Z., Zheng, Y., Xiong, X., **Ai, S.**, & Xie, R. (2019). Rayleigh wave tomography in the crust and upper mantle of the Dabie-Tablu Orogenic zone. **Seismology and Geology**. (Accepted, in Chinese)
-
-Papers in Review/Revision
-=
-> **Ai, S.**, Zheng, Y., He, L., Wang, S., & Riaz, M. S. (2019). Investigating the mountain building process in Taiwan by joint inversion of Rayleigh wave ellipticity and phase velocity. In revision at Journal of Geophysical Research: Solid Earth.
->
-> **Ai, S.**, Zhengy, Y., He, L., & Song, M. (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: on-going lithospheric modification and its impact on the Cenozoic continental rifting. Submitted to Tectonophysics.
-
-Manuscripts in Preparation
-=
-> **Ai, S.**, Zheng, Y. et al. (2019). Limited extension of the Central NCC constrained by radial anisotropy.
->
-> Zheng, Y., **Ai, S.#** et al. (2019). Crust and uppermost mantle structure beneath the north and south China collision zone from joint inversion of receiver functions and ambient noise tomography. 
->
-> **Ai, S.**, Zheng, Y. et al. (2019). Joint inversion of Rayleigh wave ellipicity, phase velocity and receiver functions for high-resolution crustal model of the SE Tibet.
->
-> **Ai, S.** et al. Crustal ductile deformation of the Taiwan Strait.
   
-Skills
-=
-* Computer Skills
-  - Linux & Shell
-  - Python, VB, C/C++, Matlab
-  - Adobe Illustrator, ArcGIS
-* Seismological Tools
-  - SAC, GMT, SOD, ObsPy, CPS
-  - In addition, I'm opening to all computation and data processing science and skills, such as AI, deep learning, etc.
-  
-[A PDF version is accessible here](http://aisanxi.github.io/files/Sanxi.Ai-CV.pdf)
+[A full version is accessible here](http://aisanxi.github.io/files/Sanxi.Ai-CV.pdf)
