@@ -14,7 +14,7 @@ redirect_from:
 
 
 
->[6]	**Ai, S.**, Zheng, Y., He, L., Song, M., (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: >On-going lithospheric modification and its impact on the Cenozoic continental rifting, **Tectonophysics**, >https://doi.org/10.1016/j.tecto.2019.05.003
+>[6]	**Ai, S.**, Zheng, Y., He, L., Song, M., (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: >On-going lithospheric modification and its impact on the Cenozoic continental rifting, **Tectonophysics**, https://doi.org/10.1016/j.tecto.2019.05.003
 >
 >[5]	**Ai, S.**, Zheng, Y., & Xiong, C. (2019). Ambient noise tomography across the Taiwan Strait, Taiwan Island and southwestern Ryukyu Arc: >Implications for subsurface slab interactions. **Tectonics**. https://doi.org/10.1029/2018TC005355
 >
