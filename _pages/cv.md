@@ -34,4 +34,4 @@ Awards & Honors
 * 2019  President Award, Chinese Academy of Sciences (Top 1%)
 
   
-[A full version is accessible here](http://aisanxi.github.io/files/Sanxi.Ai-CV.pdf)
+[A full PDF version is accessible here](http://aisanxi.github.io/files/Sanxi.Ai-CV.pdf)
