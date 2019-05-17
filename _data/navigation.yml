@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Photos"
-    url: /photomd/
+#  - title: "Photos"
+#    url: /photomd/
 
   - title: "Softwares"
     url: /softwares/
