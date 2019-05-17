@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae - Sanxi Ai"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
