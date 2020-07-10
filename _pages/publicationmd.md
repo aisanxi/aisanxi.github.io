@@ -14,7 +14,7 @@ redirect_from:
 
 >[8]. **Ai, S.**, Zheng, Y., He, L., Wang, S., & Riaz, M. S. (2019). Joint inversion of Rayleigh wave ellipticity and phase velocity for crustal structure in Taiwan. **submitted**.
 >
->[7]. **Ai, S.**, Zheng, Y. (2019). Crustal deformations of the central North China Craton constrained by radial anisotropy. **submitted**.
+>[7]. **Ai, S.**, Zheng, Y. (2019). Crustal deformations of the central North China Craton constrained by radial anisotropy. **Journal of Geophysical Research: Solid Earth**. https://doi.org/10.1029/2019JB018374
 >
 >[6]	**Ai, S.**, Zheng, Y., He, L., Song, M., (2019). Joint inversion of ambient noise and earthquake data in the Trans-North China Orogen: On-going lithospheric modification and its impact on the Cenozoic continental rifting, **Tectonophysics**, https://doi.org/10.1016/j.tecto.2019.05.003
 >
