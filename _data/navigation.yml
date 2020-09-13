@@ -3,13 +3,13 @@ main:
 #  - title: "News"
 #    url: /news/
 
-  - title: "About"
+  - title: "About 关于我"
     url: /cv/
     
-  - title: "Research"
+  - title: "Research 研究介绍"
     url: /research/
 
-  - title: "Publications"
+  - title: "Publications 文章发表"
     url: /publicationmd/    
 
 #  - title: "Teaching"
@@ -27,7 +27,7 @@ main:
 #  - title: "Softwares"
 #    url: /softwares/
     
-  - title: "Contact"
+  - title: "Contact 联系方式"
     url: /contactmd/
     
     
