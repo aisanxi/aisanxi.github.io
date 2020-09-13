@@ -24,8 +24,8 @@ main:
 #  - title: "Photos"
 #    url: /photomd/
 
-  - title: "Softwares"
-    url: /softwares/
+#  - title: "Softwares"
+#    url: /softwares/
     
   - title: "Contact"
     url: /contactmd/
