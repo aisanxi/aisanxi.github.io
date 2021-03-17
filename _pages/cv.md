@@ -12,15 +12,15 @@ redirect_from:
 
 
 
-Education and Working Experiences
+Education and working experiences
 =
 * May. 2021- Apr. 2022 (planed), project researcher, Earthquake Research Institute, University of Tokyo, Japan
-* Jul. 2020- present, research associate professor, China University of Geosciences, China 
+* Jul.  2020- present, research associate professor, China University of Geosciences, China 
 * Sept. 2014- Jan. 2020, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 * Sept. 2010- Jun. 2014, B.S. in Geomatics Engineering, Hohai University, China
 
 
-Research Interests
+Research interests
 =
 * Seismic imaging of the Earth's interior
 * Lithospheric deformation and dynamics
@@ -28,7 +28,7 @@ Research Interests
 * Seismic signal processing
 * Nunchaku martial arts
 
-Awards & Honors 
+Awards & honors 
 =
 * 2019  President Award, Chinese Academy of Sciences (Top 1%)
 * 2018  Winning Prize, The Third Session of the East Lake Academic Forum, Wuhan Branch of Chinese Academy of Sciences
