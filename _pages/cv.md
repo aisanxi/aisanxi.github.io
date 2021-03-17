@@ -12,10 +12,11 @@ redirect_from:
 
 
 
-Education
+Education and Working Experiences
 =
-* Sept. 2016- present, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
-* Sept. 2014- Aug. 2016, Master student in Geodesy,University of Chinese Academy of Sciences, China
+* May. 2021- Apr. 2022 (planed), project researcher, Earthquake Research Institute, University of Tokyo, Japan
+* Jul. 2020- present, research associate professor, China University of Geosciences, China 
+* Sept. 2014- Jan. 2020, Ph.D. in Geophysics, University of Chinese Academy of Sciences, China
 * Sept. 2010- Jun. 2014, B.S. in Geomatics Engineering, Hohai University, China
 
 
@@ -39,4 +40,4 @@ Awards & Honors
 
 
   
-[A full PDF version is accessible here](http://aisanxi.github.io/files/Sanxi.Ai-CV.pdf)
+
