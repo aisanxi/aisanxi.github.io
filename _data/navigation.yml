@@ -3,14 +3,14 @@ main:
 #  - title: "News"
 #    url: /news/
 
-  - title: "About 关于我"
-    url: /cv/
+#  - title: "About 关于我"
+#    url: /cv/
     
-  - title: "Research 研究介绍"
-    url: /research/
+#  - title: "Research 研究介绍"
+#    url: /research/
 
-  - title: "Publications 文章发表"
-    url: /publicationmd/    
+#  - title: "Publications 文章发表"
+#    url: /publicationmd/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
