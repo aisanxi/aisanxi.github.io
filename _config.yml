@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanxi Ai's homepage"
+title                    : "Sanxi AI's homepage 艾三喜个人页面"
 title_separator          : "-"
-name                     : &name "Sanxi Ai"
+name                     : &name "Sanxi AI"
 description              : &description "Seismology, geophysics"
 url                      : https://aisanxi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9349-5820"
+  orcid            : #"https://orcid.org/0000-0001-9349-5820"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
