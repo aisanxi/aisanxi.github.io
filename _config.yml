@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanxi AI's homepage 艾三喜个人页面"
+title                    : "Sanxi's page"
 title_separator          : "-"
 name                     : &name "Sanxi AI"
 description              : &description "Seismology, geophysics"
