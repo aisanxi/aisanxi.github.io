@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanxi AI"
-  avatar           : "SanxiAi.jpg"
+#  avatar           : "SanxiAi.jpg"
   bio              : "Seismology & geophysics"
   location         : "Wuhan, China"
   employer         :
